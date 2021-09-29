@@ -1,0 +1,11 @@
+{
+  "development": {
+    "API_KEY": ""
+  },
+  "staging": {
+    "API_KEY": ""
+  },
+  "production": {
+    "API_KEY": ""
+  }
+}
